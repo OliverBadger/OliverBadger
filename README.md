@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @OliverBadger
-- 👀 I’m interested in all types of programming from mobile app development to game development
-- 🌱 I’m currently learning c#, python, java and html/css/javascript
-- 💞️ I’m looking to collaborate on anything that allows me to expand my knowledge
-- 📫 How to reach me; my email address is oliverbadger@aol.com
 
 <!---
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OliverBadger&theme=blood-dark&border_radius=7&card_width=1080&card_height=300&background=282C35)](https://git.io/streak-stats)
