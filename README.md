@@ -9,7 +9,7 @@
 --->
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OliverBadger&show_icons=true&theme=onedark&card_width=1080)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OliverBadger&show_icons=true&theme=onedark&card_width=600)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=OliverBadger&theme=onedark&row=2&column=4&margin-w=200&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
