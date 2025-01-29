@@ -9,10 +9,10 @@
 --->
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OliverBadger&show_icons=true&theme=onedark&card_width=600)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OliverBadger&show_icons=true&theme=onedark&card_width=735)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=OliverBadger&theme=onedark&row=2&column=4&margin-w=200&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=OliverBadger&theme=onedark&row=2&column=4&margin-w=98&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
 OliverBadger/OliverBadger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
