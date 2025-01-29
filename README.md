@@ -3,11 +3,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OliverBadger&theme=blood-dark&border_radius=7&card_width=1080&card_height=300&background=282C35)](https://git.io/streak-stats)
 --->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OliverBadger&show_icons=true&theme=onedark&card_width=735)
 
