@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on anything that allows me to expand my knowledge
 - 📫 How to reach me; my email address is oliverbadger@aol.com
 
+<!---
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OliverBadger&theme=blood-dark&border_radius=7&card_width=1080&card_height=300&background=282C35)](https://git.io/streak-stats)
+--->
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OliverBadger&show_icons=true&theme=onedark&card_width=1080)
